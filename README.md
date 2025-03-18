@@ -21,16 +21,7 @@ This project is a 3D sample Unity game that demonstrates a cooperative boss raid
 - Unity Universal Render Pipeline (URP)
 
 ## Installation
-1. Clone this repository
-```
-git clone https://github.com/afi-backnd/world-bossraid-sample.git
-```
-2. Open the project in Unity Hub
-
-3. Set up Backnd Worlds Service
-   - Create an account at Backnd Developer Portal
-   - Configure your World settings for the boss raid environment
-   - Implement the provided SDK to connect your game
+Due to asset licensing restrictions, this sample project is not publicly available for direct download. Please contact our team for access to the demonstration or for more information about implementing similar functionality in your own project using Backnd Worlds Service.
 
 ## Backnd Worlds Service Integration
 - Real-time synchronization of boss health and status
